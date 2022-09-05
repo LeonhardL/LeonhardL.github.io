@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>LeonhardL.github.io</title>
+    <link href="https://www.lantzberg.at/feed.xml" rel="self" />
+    <link href="https://www.lantzberg.at" />
+    <updated>2022-09-01T23:56:00+02:00</updated>
+    <author>
+        <name>L</name>
+    </author>
+    <id>https://www.lantzberg.at</id>
+
+    <entry>
+        <title>Sumsi</title>
+        <author>
+            <name>L</name>
+        </author>
+        <link href="https://www.lantzberg.at/sumsi.html"/>
+        <id>https://www.lantzberg.at/sumsi.html</id>
+
+        <updated>2022-09-01T23:56:00+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://www.lantzberg.at/media/posts/1/drawing_sumsi.svg" alt="" width="794" height="1123"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>empty title</title>
+        <author>
+            <name>L</name>
+        </author>
+        <link href="https://www.lantzberg.at/empty-title.html"/>
+        <id>https://www.lantzberg.at/empty-title.html</id>
+
+        <updated>2022-09-01T01:15:09+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Steirisches Kerngold mit paniertem Grias. Baum
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <hr class="separator separator--long-line" />
+
+  <p>
+    Steirisches <mark><s>Kerngold </s></mark>mit paniertem Grias.
+  </p>
+
+  <p>
+    
+  </p>
+
+  <p class="msg msg--info">
+    Baum
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>WYSIWYG</title>
+        <author>
+            <name>L</name>
+        </author>
+        <link href="https://www.lantzberg.at/wysiwyg.html"/>
+        <id>https://www.lantzberg.at/wysiwyg.html</id>
+
+        <updated>2022-09-01T01:33:03+02:00</updated>
+            <summary>
+                <![CDATA[
+                    <ul>
+<li>
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li>😀🐴🤓</li>
+<li>😬</li>
+<li>😍</li>
+</ul>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

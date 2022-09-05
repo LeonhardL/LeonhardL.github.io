@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.lantzberg.at/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://www.lantzberg.at/</loc>
+</url>
+<url>
+<loc>https://www.lantzberg.at/empty-title.html</loc>
+<lastmod>2022-09-01T01:15:09+02:00</lastmod>
+</url>
+<url>
+<loc>https://www.lantzberg.at/sumsi.html</loc>
+<lastmod>2022-09-01T00:12:11+02:00</lastmod>
+<image:image>
+<image:loc>https://www.lantzberg.at/media\posts\1/drawing_sumsi.svg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.lantzberg.at/wysiwyg.html</loc>
+<lastmod>2022-09-01T01:33:03+02:00</lastmod>
+</url>
+</urlset>
