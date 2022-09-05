@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "https://www.lantzberg.at/sumsi.html",
-            "url": "https://www.lantzberg.at/sumsi.html",
+            "id": "https://www.lantzberg.at/sumsi/",
+            "url": "https://www.lantzberg.at/sumsi/",
             "title": "Sumsi",
             "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.lantzberg.at/media/posts/1/drawing_sumsi.svg\" alt=\"\" width=\"794\" height=\"1123\"></figure>",
             "author": {
@@ -24,8 +24,8 @@
             "date_modified": "2022-09-01T23:56:00+02:00"
         },
         {
-            "id": "https://www.lantzberg.at/empty-title.html",
-            "url": "https://www.lantzberg.at/empty-title.html",
+            "id": "https://www.lantzberg.at/empty-title/",
+            "url": "https://www.lantzberg.at/empty-title/",
             "title": "empty title",
             "summary": "Steirisches Kerngold mit paniertem Grias. Baum",
             "content_html": "<hr class=\"separator separator--long-line\" />\n\n  <p>\n    Steirisches <mark><s>Kerngold </s></mark>mit paniertem Grias.\n  </p>\n\n  <p>\n    \n  </p>\n\n  <p class=\"msg msg--info\">\n    Baum\n  </p>\n\n  <p>\n    \n  </p>",
@@ -38,8 +38,8 @@
             "date_modified": "2022-09-01T01:15:09+02:00"
         },
         {
-            "id": "https://www.lantzberg.at/wysiwyg.html",
-            "url": "https://www.lantzberg.at/wysiwyg.html",
+            "id": "https://www.lantzberg.at/wysiwyg/",
+            "url": "https://www.lantzberg.at/wysiwyg/",
             "title": "WYSIWYG",
             "summary": "<ul>\n<li>",
             "content_html": "<ul>\n<li>😀🐴🤓</li>\n<li>😬</li>\n<li>😍</li>\n</ul>\n<p> </p>\n<p> </p>",

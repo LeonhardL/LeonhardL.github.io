@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "4315b743f191ab9348e4b05a8c2202a6"
+        "md5": "a22c2dd4aa731f3210dfbf7e58aa7871"
     },
     {
         "path": "assets",
@@ -32,7 +32,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "2f821049dd22ae132bc1fecd5b2e6790"
+        "md5": "4128e7e1a641a287245dedc222b18c79"
     },
     {
         "path": "assets/dynamic",
@@ -107,27 +107,32 @@
     {
         "path": "/authors/l/index.html",
         "type": "file",
-        "md5": "b92ceb81438fd3646dc5821fe5fd479b"
+        "md5": "2447da8c6ca4ff69d506f3a80e0d0f15"
     },
     {
-        "path": "empty-title.html",
+        "path": "empty-title",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/empty-title/index.html",
         "type": "file",
-        "md5": "cc8706a2c7b0639e3599d797e1c53b4d"
+        "md5": "5f99b34fa8650f9e20c24fe4326836f2"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "b1900f435839ae3d713cea6cb13c8af7"
+        "md5": "61f6977fb2174eb0b5fa30ce3f75abd3"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "8ca94fb1364285f0ec0ec92501adaa1f"
+        "md5": "4839bc621668331b41040b9a6dbeb220"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "f7e6ccaf013a9f1223c38973c6545c81"
+        "md5": "a9a132ae45866ae641f8f0a22b6a14b8"
     },
     {
         "path": "media",
@@ -162,22 +167,17 @@
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "bc87af75e533f905904313fb2afdf6d7"
+        "md5": "9152d7f1724ed8fbcd2e0c87029f193c"
     },
     {
-        "path": "sitemap.xml",
-        "type": "file",
-        "md5": "762f18a7015b9322640b3cd0f1d70a94"
+        "path": "sumsi",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "sitemap.xsl",
+        "path": "/sumsi/index.html",
         "type": "file",
-        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
-    },
-    {
-        "path": "sumsi.html",
-        "type": "file",
-        "md5": "08d59d8be8f7191740e89a3ac1017626"
+        "md5": "7457d4fabd79be89bffdef7f1c25e68e"
     },
     {
         "path": "tags",
@@ -187,11 +187,16 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "4ec597bbf89ac27dc7f463a7641b1b8b"
+        "md5": "9b902d866dd21360cf238fa1629d4745"
     },
     {
-        "path": "wysiwyg.html",
+        "path": "wysiwyg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/wysiwyg/index.html",
         "type": "file",
-        "md5": "cc28d1a19cd3c14f885b724075c8ab3f"
+        "md5": "398a7d54471287206a08a343fe798b2d"
     }
 ]
