@@ -1,3 +1,9 @@
+not the orginal, just playing with html
+Please goto: 
+[https://github.com/MilllerTime](https://github.com/MilllerTime)
+[https://codepen.io/MillerTime/pen/XgpNwb](https://codepen.io/MillerTime/pen/XgpNwb)
+
+original:
 # Firework Simulator v2
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/MillerTime/pen/XgpNwb](https://codepen.io/MillerTime/pen/XgpNwb).
