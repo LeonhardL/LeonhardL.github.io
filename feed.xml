@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>www.lantzberg.at</title>
+    <link href="https://www.lantzberg.at/feed.xml" rel="self" />
+    <link href="https://www.lantzberg.at" />
+    <updated>2023-09-26T21:48:23+02:00</updated>
+    <author>
+        <name>LL</name>
+    </author>
+    <id>https://www.lantzberg.at</id>
+
+    <entry>
+        <title>2023</title>
+        <author>
+            <name>LL</name>
+        </author>
+        <link href="https://www.lantzberg.at/2023/"/>
+        <id>https://www.lantzberg.at/2023/</id>
+        <media:content url="https://www.lantzberg.at/media/posts/2/Blume.jpg" medium="image" />
+
+        <updated>2023-09-26T21:48:23+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.lantzberg.at/media/posts/2/Blume.jpg" class="type:primaryImage" alt="" /></p>
+                
+    <figure class="post__image post__image--wide">
+      <img decoding="async" src="https://www.lantzberg.at/media/posts/2/Blume-2.jpg" height="2736" width="3648" alt=""  sizes="100vw" srcset="https://www.lantzberg.at/media/posts/2/responsive/Blume-2-xs.jpg 300w ,https://www.lantzberg.at/media/posts/2/responsive/Blume-2-sm.jpg 480w ,https://www.lantzberg.at/media/posts/2/responsive/Blume-2-md.jpg 768w ,https://www.lantzberg.at/media/posts/2/responsive/Blume-2-lg.jpg 1024w ,https://www.lantzberg.at/media/posts/2/responsive/Blume-2-xl.jpg 1360w ,https://www.lantzberg.at/media/posts/2/responsive/Blume-2-2xl.jpg 1600w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
